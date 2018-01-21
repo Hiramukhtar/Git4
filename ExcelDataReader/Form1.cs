@@ -515,5 +515,10 @@ namespace ExcelDataReader
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("ma hun qadri sunni tan tan tanan tan");
+        }
     }
     }
